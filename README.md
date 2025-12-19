@@ -15,3 +15,15 @@ So far, using **fast mode**, the following result has been achieved:
   `c2e161f567c75b497b72cabf5c59f83664011c8df084917795695a3b7f4eebc2`
 
 > **Note:** The code is currently written in Spanish.
+
+
+## Records
+
+### Record 1:
+Using the base version of the code, the following result was achieved:
+
+✨ New record: 179 / 256 matching bits (69.92%)
+
+M1: 5083495
+
+M2: 8760291
