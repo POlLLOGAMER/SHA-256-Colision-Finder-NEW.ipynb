@@ -27,3 +27,12 @@ Using the base version of the code, the following result was achieved:
 M1: 5083495
 
 M2: 8760291
+
+### Record 2:
+Using the base version:
+
+✨ New record: 180 / 256 matching bits (70.31%)
+
+M1: 4063331
+
+M2: 9615118
